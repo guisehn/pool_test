@@ -1,0 +1,3 @@
+%{
+  "erlpool": {:hex, :erlpool, "1.4.3", "bd7efb4215b95a94b9111ce53c3823d869d6df8f49e122014d86a521b9406016", [:rebar3], [], "hexpm", "280a32a3b146ff20806997094743e87477fbe3dbfba5ea0ca97b52c78b3967ee"},
+}
